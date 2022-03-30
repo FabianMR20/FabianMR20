@@ -83,6 +83,6 @@ I'm **Fabian Matilla Rodriguez**, I am a **Fullstack Web Developer** and **Techn
 
 
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianMR20&show_icons=true&locale=en&layout=compact" alt="FabianMR20" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianMR20&show_icons=true&locale=en&layout=compact" alt="FabianMR20" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api?username=FabianMR20&hide=contribs,prs)](https://github.com/FabianMR20/github-readme-stats" /></p>
 
