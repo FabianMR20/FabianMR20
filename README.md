@@ -14,7 +14,7 @@ I'm **Fabian Matilla Rodriguez**, I am a **Fullstack Web Developer** and **Techn
 - 📫 Como contactar conmigo:
 <div>
   <a href="mailto:matilladrodriguezf@gmail.com"><img src="https://github.com/FranciscoFer99/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
-  <a href="https://www.linkedin.com/in/fabian-matilla-rodriguez-804453184/"><img src="https://github.com/FranciscoFer99/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
+  <a href="https://www.linkedin.com/in/fabian-matilla-rodriguez-804453184/"><img src="iconLinkedin.png" width="50" height="50" ></a>
 </div>
 
 ## Technologies and Tools do I use in my day to day ⚡
