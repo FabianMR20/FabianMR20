@@ -31,8 +31,7 @@ I'm **Fabian Matilla Rodriguez**, I am a **Fullstack Web Developer** and **Techn
           <span><b>HTML</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
         <br/><br/>
-      </td>
-      
+      </td> 
       <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>CSS</b></span><br/><br/><br/>
          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
@@ -49,14 +48,12 @@ I'm **Fabian Matilla Rodriguez**, I am a **Fullstack Web Developer** and **Techn
           <span><b>Java</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
         <br/><br/>
-      </td> 
-      
+      </td>      
       <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>PHP</b></span><br/><br/><br/>
          <img height="64px" src="http://lineadecodigo.com/wp-content/uploads/2013/11/php.png">
          <br/><br/>
-      </td>
-      
+      </td>    
     </tr>
     <tr valign="top">      
       <td width="25%" align="center" style="padding-bottom:3rem">
@@ -68,19 +65,15 @@ I'm **Fabian Matilla Rodriguez**, I am a **Fullstack Web Developer** and **Techn
         <span>Angular</span><br/><br/><br/>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
         <br/><br/>
-      </td>
-      
+      </td>    
       <td width="25%" align="center" style="padding-bottom:3rem">
             <span><b>Laravel</b></span><br/><br/><br/>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
         <br/><br/>
-      </td>
-      
+      </td>     
     </tr>
   </tbody>
 </table>
-
-
 <br/>
 <!-- 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianMR20&show_icons=true&locale=en&layout=compact" alt="FabianMR20" /></p> 
