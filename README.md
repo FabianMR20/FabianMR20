@@ -1,7 +1,7 @@
 # Fabian Matilla Rodriguez
 ### Hi! 👋
 
-I'm **Fabian Matilla Rodriguez**, I am a **Fullstack Web Developer** and **Technician In Computer Systems**, passionate about **Technology**, **Linux**, **Open-source development**, **Team-work**. Always in constant learning.
+I am a **Fullstack Web Developer** and **Technician In Computer Systems**, passionate about **Technology**, **Linux**, **Open-source development**, **Team-work**. Always in constant learning.
 
 
 - 🔭 Actualmente trabajo en diversos proyectos:
